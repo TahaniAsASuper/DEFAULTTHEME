@@ -731,9 +731,9 @@
         },
         {
             "key": "37c62313-0924-4c87-8bb7-2ad363be6807",
-            "title": "rr",
+            "title": "شريط علوي",
             "icon": "sicon-store",
-            "path": "ttrr-rr",
+            "path": "ad-bar",
             "fields": []
         }
     ],
