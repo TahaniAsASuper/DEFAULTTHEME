@@ -735,6 +735,13 @@
             "icon": "sicon-store",
             "path": "ttrr-rr",
             "fields": []
+        },
+        {
+            "key": "5c6f7010-49fa-4e66-9129-60dace682b6c",
+            "title": "ad bar",
+            "icon": "sicon-envelope",
+            "path": "ad-bar",
+            "fields": []
         }
     ],
     "support_url": "https://salla.dev",
