@@ -734,7 +734,25 @@
             "title": "شريط علوي",
             "icon": "sicon-store",
             "path": "ad-bar",
-            "fields": []
+            "fields": [
+                {
+                    "id": "string",
+                    "key": "2fc2815d-77d0-4723-a4fd-26563ffa524d",
+                    "type": "string",
+                    "format": "text",
+                    "label": "String",
+                    "description": null,
+                    "labelHTML": "&lt;input/&gt;",
+                    "placeholder": "Placeholder text ..",
+                    "icon": "sicon-format-text-alt",
+                    "value": "اكتب محتوى الإعلان هنا",
+                    "multilanguage": false,
+                    "required": true,
+                    "minLength": "١",
+                    "maxLength": "١٠٠",
+                    "defaulted": true
+                }
+            ]
         }
     ],
     "support_url": "https://salla.dev",
